@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #22C55E;
+      }
+      @media (prefers-color-scheme: dark) {
+        .cls-1 {
+          fill: #22C55E;
+        }
+      }
+    </style>
+  </defs>
+  <title>Awradi Icon</title>
+  <path class="cls-1" d="M85,95H15a5,5,0,0,1-5-5V75H90V90A5,5,0,0,1,85,95Z"/>
+  <path class="cls-1" d="M50,5A29.54,29.54,0,0,0,20,30.25C20,55,50,75,50,75S80,55,80,30.25A29.54,29.54,0,0,0,50,5Z"/>
+  <path class="cls-1" d="M50,0a5,5,0,0,1,5,5V20a5,5,0,0,1-10,0V5A5,5,0,0,1,50,0Z"/>
+</svg>

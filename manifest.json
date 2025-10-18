@@ -1,0 +1,26 @@
+{
+  "name": "Awradi - أورادي",
+  "short_name": "أورادي",
+  "description": "An integrated Islamic application for prayers, supplications, Qibla, and more, designed for a seamless mobile experience with alerts and notifications.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
